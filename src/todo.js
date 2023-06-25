@@ -1,7 +1,4 @@
-import "./styles.css";
-
 // login form
-
 const loginDiv = document.querySelector("#login-div");
 const loginInput = document.querySelector("#login-div input");
 const helloText = document.querySelector("#hello");
