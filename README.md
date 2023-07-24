@@ -1,5 +1,8 @@
 # Momentum
 
+![web](https://github.com/Hee-Young/Momentum/assets/66981758/4b57e8ca-7dc3-4015-9a38-4ca5f7900326)
+
+
 📑 배운 이론
 - Variables
 - Functions
