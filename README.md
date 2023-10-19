@@ -1,5 +1,7 @@
 # Momentum
 
+노마드코더의 바닐라 JS 챌린지 결과물입니다.
+
 ![web](https://github.com/Hee-Young/Momentum/assets/66981758/4b57e8ca-7dc3-4015-9a38-4ca5f7900326)
 
 
